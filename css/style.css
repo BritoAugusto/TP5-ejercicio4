@@ -19,3 +19,16 @@ div{
     font-size: 16px;
  }
 
+ @media (min-width: 768px) and (max-width: 1024px) {
+    p{
+        margin-left: 440px;
+        font-size: 20px;
+    }
+ }
+@media (min-width: 1024px){
+    p{
+        margin-top: 33px;
+        margin-left: 660px;
+    font-size: 21px;
+}
+}
